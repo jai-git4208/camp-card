@@ -6,11 +6,11 @@
 
 ### Front
 
-![Camp-Card Front](front.jpg)
+![Camp-Card Front](https://github.com/jai-git4208/camp-card/blob/main/front.jpg)
 
 ### Back
 
-![Camp-Card Back](back.jpg)
+![Camp-Card Back](https://github.com/jai-git4208/camp-card/blob/main/back.jpg)
 
 > *(Images show the front and back silkscreen/layout of the Camp-Card PCB.)*
 
